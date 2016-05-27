@@ -4,11 +4,14 @@ This is a test caption...
 
 2
 00:00:07,000 --> 00:00:011,400
-If you can see this, things are working
+This is a really loooooooooooooooooooooooooooooonnnnnnnnnnng test caption.
 
 3
-00:00:12,000 --> 00:00:016,400
-Please proceed and be bold
+00:00:12,000 --> 00:00:014,400
+This is a multi-line caption 1
+This is a multi-line caption 2
+This is a multi-line caption 3
+This is a multi-line caption 4
 
 4
 00:00:20,000 --> 00:00:24,400
