@@ -1,14 +1,14 @@
 1
 00:00:02,000 --> 00:00:06,400
-This is a test caption.
+This is a test caption...
 
 2
 00:00:07,000 --> 00:00:011,400
-If you can see this, things are working.
+If you can see this, things are working
 
 3
 00:00:12,000 --> 00:00:016,400
-Please proceed and be bold.
+Please proceed and be bold
 
 4
 00:00:20,000 --> 00:00:24,400
